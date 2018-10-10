@@ -1,0 +1,10 @@
+label {
+  display: block;
+  margin: 5px;
+}
+
+input, select {
+  display: block;
+  margin: 10px auto 0;
+  padding: 5px 15px;
+}
